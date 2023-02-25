@@ -1,0 +1,36 @@
+#menu {
+    background-color: #DDD92A;
+}
+
+.topmenu {
+    /* padding: 2em; */
+    background-color: #EEEFA8;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+body {
+    background-color: #2D2A32;
+}
+
+.main1 {
+    position: relative;
+    justify-content: center;
+}
+
+p {
+    margin: 2em;
+    color: aliceblue;
+}
+
+h3 {
+    position: absolute;
+    color: black;
+    border: white;
+    background-color: #EEEFA8;
+    padding: 0px 3px;
+}
+
+ul {
+    width: 100%;
+}
